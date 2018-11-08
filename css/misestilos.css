@@ -1,0 +1,75 @@
+
+@import url('https://fonts.googleapis.com/css?family=Bad+Script|Caveat&subset=cyrillic');
+
+body{
+background-color: #f07a6a;
+/*background-image: url(../images/back_art.jpg);*/
+
+background-size:  cover;
+font-family: 'Roboto Condensed', sans-serif;
+}
+
+.col-s9{
+width: 100%;
+
+}
+h1,  p,li {
+font-family: 'Bad Script', cursive;
+}
+h2,h3, h4, h5{
+font-family: 'Caveat', cursive;
+
+
+}
+
+h2{
+font-size: 80px;
+
+}
+h1{
+  font-size: 120px;
+
+
+}
+h5{
+  font-size: 25px;
+}
+
+h3{
+  font-size: 50px;
+}
+
+
+
+
+
+.container{
+background-color:  0,0,0,0;
+
+text-align: center;
+
+
+
+
+
+
+}
+canvas {
+  width: 75%;
+  height: 75%;
+}
+
+
+
+.contenido{
+  font-size: 20px;
+  text-align: center;
+
+
+  padding: 10px;
+
+  border-right: 100px;
+
+
+
+}
